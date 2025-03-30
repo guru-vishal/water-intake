@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://water-intake-tracker.onrender.com/api';
+const API_URL = 'https://water-intake-8jc8.onrender.com/api';
 
 
 export const register = async (userData) => {
